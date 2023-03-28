@@ -1,8 +1,8 @@
 ### Elena Galkina
 * Address: Kaluga, Russia
 * Phone: +7 980 716 39 11
-* [E-mail: ](E-mail: algalkinaevgen14@gmail.com)
-* [GitHub:](GitHub: alena299)
+* E-mail: [algalkinaevgen14@gmail.com](algalkinaevgen14@gmail.com)
+* [GitHub:](https://alena299.github.io/rsschool-cv/cv)
 
 ## About Me
 * Organized and reliable candidate, successful at managing multiple priorities with a positive attitude
